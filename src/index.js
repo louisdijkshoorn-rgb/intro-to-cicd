@@ -1,6 +1,6 @@
-// Here is a nice comment, attempt 2
+// I am trying again, let's see again if this works
 function sayHi(name) {
-  return `Hello there ${name}`
+  return `Hello ${name}`
 }
 
 module.exports = sayHi
